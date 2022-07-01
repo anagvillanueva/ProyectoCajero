@@ -1,6 +1,6 @@
 # ProyectoCajero
 
-Pruebalo aqui:https://cajero-online-devf.netlify.app/
+Pruebalo aqui: https://cajero-online-devf.netlify.app/
 
 Cuentas:
 
